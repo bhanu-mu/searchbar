@@ -97,6 +97,7 @@ function Searchbar() {
         </TableBody>
       </Table>
     </TableContainer>
+    {/* Table */}
             </div>
         </div>
     )
